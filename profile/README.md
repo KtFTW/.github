@@ -9,3 +9,4 @@ On November 25th there will be the next PluginJam and we will be, again, partici
 ## Repositories
 
 [PluginJam 1](https://github.com/KtFTW/PluginJam-1) - The Code for the Plugin we made during the first PluginJam
+[PluginJam 2](https://github.com/KtFTW/PluginJam-2) - The Code for the Plugin we made during the second PluginJam
