@@ -4,7 +4,7 @@ On the 1st-3rd April of 2022 the German [DevCord](https://github.com/devcordde) 
 We, KotlinFTW ([StckOverflw](https://twitter.com/StckOverflw), [l4zs](https://twitter.com/l4zs1), [Coole Pizza](https://twitter.com/cedricmkl), [Domme](https://twitter.com/DQMME)), 
 participated and got 1st place for Community Votes and 2nd for Jury Votes. \
 
-On November 25th there will be the next PluginJam and we will be, again, participating.
+From November 25th-27th November the second Gamejam was held. This time we won in both the community voting and the jury voting.
 
 ## Repositories
 
